@@ -16,7 +16,7 @@ Generally using a knowledge based embedding or retrieval augmented generation (R
 ## What do I want to do?
 I want my model to take a simple prompt like: "Midjourney prompt for a fantasy village night" and turn it into something better like "a beautiful adorable fantasy village the ground is lit like warm daylight, but the sky is dark and full of stars --ar 16:9"   
 
-## What data an I fine-tune using?
+## What data am I using to fine-tune?
 You can finetune your model using your own datasets, or publically available datasets, such as those found on [Kaggle](Kaggle.com) or [Huggingface](https://huggingface.co/docs/datasets/index). Fine-tuning can be started using limited amounts of data, be it 100s or 1000s of rows, but as always generally the more data you have the better. 
 
 # How do you run this notebooks?
@@ -24,5 +24,3 @@ You can finetune your model using your own datasets, or publically available dat
 1. You can run the notebook on [Google Colab](https://colab.research.google.com/drive/1IqL0ay04RwNNcn5R7HzhgBqZ2lPhHloh?usp=sharing)
 2. Data can be found on [Google Drive](https://docs.google.com/spreadsheets/d/1u2bbcSRV99t0Bg9AHFtakpnI3NrC_cVXlR6tZ7yOKlM/edit#gid=456317866)
 3. You need a HuggingFace API key, which you can get from your HuggingFace account.
-
-   
