@@ -21,7 +21,8 @@ You can finetune your model using your own datasets, or publically available dat
 
 # How do you run this notebooks?
 
-1. You can run it on [Google Colab](https://colab.research.google.com/drive/1IqL0ay04RwNNcn5R7HzhgBqZ2lPhHloh?usp=sharing)
-2. You need a HuggingFace API key, which you can get from your HuggingFace account.
+1. You can run the notebook on [Google Colab](https://colab.research.google.com/drive/1IqL0ay04RwNNcn5R7HzhgBqZ2lPhHloh?usp=sharing)
+2. Data can be found on [Google Drive](https://docs.google.com/spreadsheets/d/1u2bbcSRV99t0Bg9AHFtakpnI3NrC_cVXlR6tZ7yOKlM/edit#gid=456317866)
+3. You need a HuggingFace API key, which you can get from your HuggingFace account.
 
    
